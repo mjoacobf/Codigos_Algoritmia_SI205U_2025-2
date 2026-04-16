@@ -1,5 +1,6 @@
 Hay algunas cosas que no se arreglaron:
 PC1 25-2 pregunta 2 puede estar incorrecto.
+EF 25-2 pregunta 2 tiene el uso insano del switch porque se me olvidó que podía usar el truquito de char + 32 XD pero igual funciona...
 EF 25-2 pregunta 3 está incompleto
 PC4 25-2 pregunta 2 le faltó un dato final XD pero bueno.
 

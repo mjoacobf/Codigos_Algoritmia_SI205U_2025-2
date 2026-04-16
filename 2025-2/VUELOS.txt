@@ -1,0 +1,10 @@
+1501 Lima_Cusco 100 5 109.5
+1502 Lima_arequipa 120 60 145.5
+1503 Lima_Trujillo 80 8 120
+1504 Lima_Piura 100 10 135.75
+1505 Lima_Iquitos 150 20 210
+1506 Lima_Tacna 90 45 156.25
+1507 Lima_Chiclayo 100 2 180
+1508 Lima_Tumbes 80 40 95.5
+1509 Lima_Juliaca 100 5 175
+1510 Lima_Ayacucho 60 30 110

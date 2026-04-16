@@ -1,0 +1,6 @@
+Hay algunas cosas que no se arreglaron:
+PC1 25-2 pregunta 2 puede estar incorrecto.
+EF 25-2 pregunta 3 está incompleto
+PC4 25-2 pregunta 2 le faltó un dato final XD pero bueno.
+
+Los archivos txt son la entrada de consola.
